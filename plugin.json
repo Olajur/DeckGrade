@@ -1,0 +1,11 @@
+{
+  "name": "DeckGrade",
+  "author": "Olajur",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["display", "saturation", "contrast", "color"],
+    "description": "Adjust display saturation and contrast on your Steam Deck.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+  }
+}

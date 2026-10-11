@@ -1,0 +1,22 @@
+# Dependency directory
+node_modules
+.pnpm-store
+
+# Editors
+.idea
+*.iml
+.vscode/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist/
+__pycache__/
+
+# Ignore output folder
+out/
+
+# Local agent/dev tooling
+.opencode/
